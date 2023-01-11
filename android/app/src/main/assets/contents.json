@@ -1,0 +1,28 @@
+{
+  "sticker_packs": [
+    {
+      "identifier": "stickers",
+      "name": "Durga Puja Wishes",
+      "publisher": "Ru-De Labs",
+      "tray_image_file": "sticker_icon.png",
+      "publisher_email": "info@rudelabs.in",
+      "publisher_website": "https://rudelabs.in",
+      "privacy_policy_website": "https://rudelabs.in",
+      "license_agreement_website": "https://rudelabs.in",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        }
+      ]
+    }
+  ]
+}
